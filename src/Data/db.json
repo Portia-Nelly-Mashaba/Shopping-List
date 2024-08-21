@@ -1,0 +1,28 @@
+{
+  "shoppingList": [
+    {
+      "id": "2",
+      "item": "Milk",
+      "quantity": 1,
+      "unit": "liters",
+      "category": "dairy",
+      "priority": "high"
+    },
+    {
+      "id": "e936",
+      "item": "water",
+      "quantity": "5",
+      "unit": "liters",
+      "category": "other",
+      "priority": "medium"
+    },
+    {
+      "id": "6179",
+      "item": "Oil",
+      "quantity": "2",
+      "unit": "liters",
+      "category": "other",
+      "priority": "medium"
+    }
+  ]
+}

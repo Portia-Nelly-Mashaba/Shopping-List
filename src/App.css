@@ -2,9 +2,21 @@
   text-align: center;
 }
 
-.App-logo {
+.App-logo{
   height: 40vmin;
   pointer-events: none;
+}
+
+.header{
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+  text-align: left;
+}
+
+.item-header{
+  text-align: right;
 }
 
 @media (prefers-reduced-motion: no-preference) {
